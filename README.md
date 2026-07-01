@@ -11,6 +11,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=MCA+Student;Python+Developer;Java+Learner;Cloud+Computing+Enthusiast;Open+Source+Contributor"/>
 
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=900&color=00FF00&center=true&vCenter=true&width=1000&lines=Initializing...;Loading+Projects...;Access+Granted...;Welcome+Developer"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
