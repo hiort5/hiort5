@@ -13,6 +13,9 @@ MCA Student | Python Developer | Java Learner | Cloud Computing Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&duration=2800&color=FF4500&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub;Python+Developer;Java+Programmer;Cloud+Computing;Code+Build+Repeat"/>
 
 </p>
+<p align="center">
+  <img src="./assets/DIGISIGNWHITE.png" width="100%">
+</p>
 
 ---
 ---
