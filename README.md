@@ -4,7 +4,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Programmer;Learning+Cloud+Computing;Always+Learning+New+Things" />
 </p>
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=260&section=header&text=ROHIT%20ANTONY&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=MCA+Student;Python+Developer;Java+Learner;Cloud+Computing+Enthusiast;Open+Source+Contributor"/>
+
+</p>
 ---
 
 ## 👨‍💻 About Me
