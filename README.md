@@ -2,27 +2,12 @@
 <h3 align="center">MCA Student | Python Developer | Java Learner | Cloud Computing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Programmer;Learning+Cloud+Computing;Always+Learning+New+Things" />
-</p>
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=260&section=header&text=ROHIT%20ANTONY&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,20:330000,45:660000,70:cc2200,100:ff6600&text=HIORT%20&fontColor=FFD700&fontSize=68&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=MCA+Student;Python+Developer;Java+Learner;Cloud+Computing+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&duration=2800&color=FF4500&center=true&vCenter=true&width=1000&lines=🔥+Welcome+to+my+GitHub;💻+Python+Developer;☕+Java+Programmer;☁️+Cloud+Computing;⚡+Code.+Build.+Repeat."/>
 
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=900&color=00FF00&center=true&vCenter=true&width=1000&lines=Initializing...;Loading+Projects...;Access+Granted...;Welcome+Developer"/>
-</p>
-<p align="center">
 
-# 💻 ROHIT ANTONY
-
-### ⚡ Python • Java • Cloud • Open Source
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;I+love+building+projects;Always+learning+something+new"/>
-
-</p>
 ---
 
 ## 👨‍💻 About Me
