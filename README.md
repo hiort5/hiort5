@@ -3,8 +3,8 @@
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,20:330000,45:660000,70:cc2200,100:ff6600&text=ROHIT%20ANTONY&fontColor=FFD700&fontSize=68&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&duration=2800&color=FF4500&center=true&vCenter=true&width=1000&lines=🔥+Welcome+to+my+GitHub;💻+Python+Developer;☕+Java+Programmer;☁️+Cloud+Computing;⚡+Code.+Build.+Repeat."/>
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&duration=2800&color=FF4500&center=true&vCenter=true&width=1000&lines=%F0%9F%94%A5+Welcome+to+my+GitHub;%F0%9F%92%BB+Python+Developer;%E2%98%95+Java+Programmer;%E2%98%81%EF%B8%8F+Cloud+Computing;%E2%9A%A1+Code+Build+Repeat" />
 
 </p>
 ---
