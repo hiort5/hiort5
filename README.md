@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rohit </h1>
 <h3 align="center">MCA Student | Python Developer | Java Learner | Cloud Computing Enthusiast</h3>
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,20:330000,45:660000,70:cc2200,100:ff6600&text=HIORT&fontColor=FFD700&fontSize=68&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,20:330000,45:660000,70:cc2200,100:ff6600&text=ROHIT%20ANTONY&fontColor=FFD700&fontSize=68&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&duration=2800&color=FF4500&center=true&vCenter=true&width=1000&lines=🔥+Welcome+to+my+GitHub;💻+Python+Developer;☕+Java+Programmer;☁️+Cloud+Computing;⚡+Code.+Build.+Repeat."/>
 
-
+</p>
 ---
 
 ## 👨‍💻 About Me
