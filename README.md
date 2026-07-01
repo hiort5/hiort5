@@ -14,6 +14,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=900&color=00FF00&center=true&vCenter=true&width=1000&lines=Initializing...;Loading+Projects...;Access+Granted...;Welcome+Developer"/>
 </p>
+<p align="center">
+
+# 💻 ROHIT ANTONY
+
+### ⚡ Python • Java • Cloud • Open Source
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;I+love+building+projects;Always+learning+something+new"/>
+
+</p>
 ---
 
 ## 👨‍💻 About Me
